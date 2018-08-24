@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mvp</string>
+    <string name="username">Enter UserName</string>
+    <string name="pwd">Enter Password</string>
+    <string name="login">Log In</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="cow">Cow</string>
+    <string name="select">Select</string>
+</resources>
